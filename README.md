@@ -2,7 +2,7 @@
 
 Example of using raylib with C and WASM
 
-![[./showcase.png]]
+![](https://github.com/danihek/c-wasm/blob/main/showcase.png?raw=true)
 
 ## Thanks for
 ### Inspiration:
